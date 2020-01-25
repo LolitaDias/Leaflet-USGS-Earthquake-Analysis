@@ -3,7 +3,7 @@
 // Store our API endpoint inside queryUrl - Past 30 days
 var queryUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson";
 
-// Initialize & Create Two Separate LayerGroups: earthquakes & tectonicPlates
+// Initialize & Create Two Separate LayerGroups: earthquakes
 var earthquakes = new L.LayerGroup();
 
 // Define Variables for Tile Layers
