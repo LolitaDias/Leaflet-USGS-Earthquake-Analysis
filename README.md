@@ -20,7 +20,7 @@ The goal of this project was to use JavaScript to present an interactive map vis
 
 
 
-## Your Task
+
 
 ### Level 1: Basic Visualization
 
