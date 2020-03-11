@@ -69,4 +69,3 @@ In this step we are going to..
 ### Assessment
 
 Your final product will be assessed on the following metrics:
-
