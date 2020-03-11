@@ -16,7 +16,7 @@ The goal of this project was to use JavaScript to present an interactive map vis
 
 
 
-4. This homeworks utilizes both **html** and **Javascript** so be sure to add all the necessary files. These will be the main files to run for analysis.
+
 
 5. Push the above changes to GitHub or GitLab.
 
