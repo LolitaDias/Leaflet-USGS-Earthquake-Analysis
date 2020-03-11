@@ -72,4 +72,3 @@ Your final product will be assessed on the following metrics:
 
 * Completion of assigned tasks
 
-
