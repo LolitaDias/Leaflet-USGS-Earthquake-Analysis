@@ -28,6 +28,7 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson
 
 #### Results
 
+![4-JSON](Images/4-JSON.png)
 
 
 
