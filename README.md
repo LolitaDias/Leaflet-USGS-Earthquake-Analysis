@@ -26,7 +26,7 @@ The goal of this project was to use JavaScript to present an interactive map vis
 
 ![2-BasicMap](Images/2-BasicMap.png)
 
-Your first task is to visualize an earthquake data set.
+
 
 1. **Get your data set**
 
