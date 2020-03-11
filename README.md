@@ -24,4 +24,3 @@ The goal of this project was to use JavaScript to present an interactive map vis
 
 
 
-
