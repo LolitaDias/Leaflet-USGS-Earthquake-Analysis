@@ -30,8 +30,5 @@ The goal of this project was to use JavaScript to present an interactive map vis
 
 1. **Get your data set**
 
-   ![3-Data](Images/3-Data.png)
-
-
 
 
