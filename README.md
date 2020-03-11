@@ -12,7 +12,7 @@ The goal of this project was to use JavaScript to present an interactive map vis
 
 
 
-2. Clone the new repository to your computer.
+
 
 3. Inside your local git repository, create a directory for the Leaflet challenge. Use the folder names to correspond to the challenges: **Leaflet-Step-1** and **Leaflet-Step-2**.
 
