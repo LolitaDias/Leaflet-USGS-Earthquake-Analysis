@@ -10,7 +10,7 @@ The goal of this project was to use JavaScript to present an interactive map vis
 
 
 
-1. Create a new repository for this project called `leaflet-challenge`. **Do not add this homework to an existing repository**.
+
 
 2. Clone the new repository to your computer.
 
