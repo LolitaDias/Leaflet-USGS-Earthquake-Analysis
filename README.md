@@ -36,7 +36,6 @@ The goal of this project was to use JavaScript to present an interactive map vis
 
    ![4-JSON](Images/4-JSON.png)
 
-2. **Import & Visualize the Data**
 
 
 
