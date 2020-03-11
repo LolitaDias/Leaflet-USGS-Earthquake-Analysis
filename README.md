@@ -40,7 +40,6 @@ The goal of this project was to use JavaScript to present an interactive map vis
 
    Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
 
-   * Your data markers should reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes should appear larger and darker in color.
 
 
 
