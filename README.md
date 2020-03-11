@@ -38,7 +38,6 @@ The goal of this project was to use JavaScript to present an interactive map vis
 
 2. **Import & Visualize the Data**
 
-   Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
 
 
 
