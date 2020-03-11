@@ -59,4 +59,3 @@ The USGS wants you to plot a second data set on your map to illustrate the relat
 In this step we are going to..
 
 
-
