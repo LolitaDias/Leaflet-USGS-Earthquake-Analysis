@@ -8,7 +8,7 @@
 
 The goal of this project was to use JavaScript to present an interactive map visualization of USGS earthquake data within a web page. Since the baseline data was provided in GeoJSON format, Leaflet was used to import and process the data, as well as generate the required visualization.
 
-### Before You Begin
+
 
 1. Create a new repository for this project called `leaflet-challenge`. **Do not add this homework to an existing repository**.
 
