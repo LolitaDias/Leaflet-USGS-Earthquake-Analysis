@@ -74,5 +74,4 @@ Your final product will be assessed on the following metrics:
 
 * Visual appearance
 
-* Professionalism
 
